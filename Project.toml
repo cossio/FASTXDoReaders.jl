@@ -1,0 +1,7 @@
+name = "FASTXDoReaders"
+uuid = "a10097c8-9f5b-4030-a7d7-d11adc5c7381"
+authors = ["JFdCD <jfdecd@icloud.com>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"
