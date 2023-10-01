@@ -1,7 +1,7 @@
 name = "FASTXDoReaders"
 uuid = "a10097c8-9f5b-4030-a7d7-d11adc5c7381"
 authors = ["JFdCD <jfdecd@icloud.com>"]
-version = "1.0.0"
+version = "1.0.1-DEV"
 
 [deps]
 FASTX = "c2308a5c-f048-11e8-3e8a-31650f418d12"
